@@ -124,11 +124,6 @@ Filtering and sorting are performed locally after the initial API data is loaded
 
 The application provides visible UI states instead of leaving the page blank:
 
-```text
-Loading → Success → Display Results
-
-Loading → API Failure → Error Message → Retry
-````
 
 ## Responsive Design
 
